@@ -1,0 +1,61 @@
+Title: "PanPot Show Survey"
+Author: "PanPot NexR Sho"
+Image: "https://nexrbanner.s3.eu-central-1.amazonaws.com/new-panpot-banner.jpeg"
+Theme: "282828"
+Questions: 
+    Question001:
+        Type: "ShortText"
+        Label: Please insert your email address
+   
+   
+    Question111:
+        Type: Radio
+        Label: 2. Did you feel like collecting energy added to your experience?
+        Values:
+            Value1: Not at all
+            Value2: Some what
+            Value3:  a lot
+    
+    Question11:
+        Type: Radio
+        Label: 1. How well did you understand the tutorial instructions?
+        Values:
+            Value1: Poor
+            Value2: Bad
+            Value3: Good
+            Value4: Great
+            Value5: Perfect
+    Question77:
+        Type: Text
+        Label: If yes, please explain        
+    Question88:
+        Type: Radio
+        Label: 5. Did you prefer to dance or just observe the show?
+        Values:
+            Value1: Dance
+            Value2: Observe & Chill
+    Question777:
+        Type: Radio
+        Label: 4. Was the show interesting for the whole duration? If not, when did you feel bored/zoned out?
+        Values:
+            Value1: 15min
+            Value2: 30min
+            Value3: 45min
+    
+    Question144:
+        Type: Radio
+        Label: 3. Did you experience any technical difficulties?
+        Values:
+            Value1: 'Yes'
+            Value2: 'No'
+    
+    Question89:
+        Type: Radio
+        Label: 7. Would you participate again in this experience or would you rather watch the concert on stream?
+        Values:
+            Value1: Pan-Pot Live Experience
+            Value2: Virtual concert stream
+            Value3: None
+    Question91:
+        Type: Text
+        Label: 8. If you have any additional comments about the experience please share
